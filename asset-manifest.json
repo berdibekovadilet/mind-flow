@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mind-flow/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mind-flow/static/js/main.ca26195f.chunk.js",
+    "main.js.map": "/mind-flow/static/js/main.ca26195f.chunk.js.map",
+    "runtime-main.js": "/mind-flow/static/js/runtime-main.6dd1a146.js",
+    "runtime-main.js.map": "/mind-flow/static/js/runtime-main.6dd1a146.js.map",
+    "static/js/2.080245c4.chunk.js": "/mind-flow/static/js/2.080245c4.chunk.js",
+    "static/js/2.080245c4.chunk.js.map": "/mind-flow/static/js/2.080245c4.chunk.js.map",
+    "index.html": "/mind-flow/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/mind-flow/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.080245c4.chunk.js.LICENSE.txt": "/mind-flow/static/js/2.080245c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd1a146.js",
+    "static/js/2.080245c4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ca26195f.chunk.js"
+  ]
+}
